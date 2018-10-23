@@ -1,0 +1,27 @@
+#灰度
+# 断点10.10.81.30
+42.62.96.183  login.xueersi.com
+42.62.96.183  reg.xueersi.com
+
+#接口
+42.62.96.183 openapi.xesv5.com
+42.62.96.183 userapi.xesv5.com
+42.62.96.183 adminapi.xesv5.com
+42.62.96.183 courseapi.xesv5.com
+42.62.96.183 cardcouponapi.xesv5.com
+42.62.96.183 teacherapi.xesv5.com
+42.62.96.183 stucouapi.xesv5.com
+42.62.96.183 orderapi.xesv5.com
+
+#后台
+42.62.96.183 static.xesv5.com
+42.62.96.183 admin.xesv5.com
+42.62.96.183 custom.xesv5.com
+42.62.96.183 express.xesv5.com
+
+#前台10.10.133.116
+42.62.96.183 ocenter.xueersi.com
+42.62.96.183 account.xueersi.com
+42.62.96.183 i.xueersi.com
+42.62.96.183 i.study.xueersi.com
+42.62.96.183 trade.xueersi.com
