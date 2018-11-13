@@ -1,0 +1,59 @@
+10.10.7.148   wss-mdb1
+
+10.10.7.148   wss-slave
+
+10.10.7.148   analysis-mdb1
+
+10.10.7.148   test-library
+
+10.10.7.148   examination-db
+
+10.10.7.148   exam-mdb1
+
+10.10.7.148   handout-mdb1
+
+10.10.7.148   course-mdb1
+
+10.10.7.148 course-slave
+
+10.10.7.148   ucenter-mdb1
+
+10.10.7.148   fcenter-mdb1
+
+10.10.7.148   video-mdb1
+
+10.10.7.148   live-mdb1
+
+10.10.7.148   learningclass-mdb1
+
+10.10.7.148   class-mdb1
+
+10.10.7.148   report-mdb1
+
+10.10.7.148   weixin-db
+
+10.10.7.148   crm-mdb1
+
+10.10.7.148   homework-db
+
+10.10.7.148   push-mdb1
+
+10.10.7.148   logs-mdb
+
+10.10.7.148   codis-app
+
+10.10.7.148   pika-235
+
+10.10.7.148   redis-oper
+
+10.10.7.148   redis-push
+
+10.10.7.148   l0-memcache1
+
+10.10.7.148   memcache-app
+
+10.10.7.148 irc-db1
+
+10.10.7.148 codis-195
+
+10.10.7.148 jzh-mdb1
