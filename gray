@@ -1,27 +1,27 @@
 #灰度
 # 断点10.10.81.30
-42.62.96.183  login.xueersi.com
-42.62.96.183  reg.xueersi.com
+123.125.26.42  login.xueersi.com
+123.125.26.42  reg.xueersi.com
 
 #接口
-42.62.96.183 openapi.xesv5.com
-42.62.96.183 userapi.xesv5.com
-42.62.96.183 adminapi.xesv5.com
-42.62.96.183 courseapi.xesv5.com
-42.62.96.183 cardcouponapi.xesv5.com
-42.62.96.183 teacherapi.xesv5.com
-42.62.96.183 stucouapi.xesv5.com
-42.62.96.183 orderapi.xesv5.com
+123.125.26.42 openapi.xesv5.com
+123.125.26.42 userapi.xesv5.com
+123.125.26.42 adminapi.xesv5.com
+123.125.26.42 courseapi.xesv5.com
+123.125.26.42 cardcouponapi.xesv5.com
+123.125.26.42 teacherapi.xesv5.com
+123.125.26.42 stucouapi.xesv5.com
+123.125.26.42 orderapi.xesv5.com
 
 #后台
-42.62.96.183 static.xesv5.com
-42.62.96.183 admin.xesv5.com
-42.62.96.183 custom.xesv5.com
-42.62.96.183 express.xesv5.com
+123.125.26.42 static.xesv5.com
+123.125.26.42 admin.xesv5.com
+123.125.26.42 custom.xesv5.com
+123.125.26.42 express.xesv5.com
 
 #前台10.10.133.116
-42.62.96.183 ocenter.xueersi.com
-42.62.96.183 account.xueersi.com
-42.62.96.183 i.xueersi.com
-42.62.96.183 i.study.xueersi.com
-42.62.96.183 trade.xueersi.com
+123.125.26.42 ocenter.xueersi.com
+123.125.26.42 account.xueersi.com
+123.125.26.42 i.xueersi.com
+123.125.26.42 i.study.xueersi.com
+123.125.26.42 trade.xueersi.com
