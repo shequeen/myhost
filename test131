@@ -12,11 +12,12 @@
 10.99.1.131 stucouapi.xesv5.com
 10.99.1.131 trade.xueersi.com
 10.99.1.131 orderapi.xesv5.com
-10.99.1.131 login.xueersi.com
 10.99.1.131 ocenter.xueersi.com
 10.99.1.131 account.xueersi.com
-10.99.1.131 login.xueersi.com
 10.97.14.61 i.xueersi.com
+10.97.15.72  reg.xueersi.com
+10.97.15.72  login.xueersi.com
+10.99.2.185 mall.xueersi.com
 
 #本地接口:
 127.0.0.1 adminapi.xesv5.com
