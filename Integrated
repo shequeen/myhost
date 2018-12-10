@@ -1,0 +1,59 @@
+# 前台项目(代理机)
+10.17.65.15 ocenter.xueersi.com #目前代理到10.17.81.18, 需要等运维周一把解析改到10.17.81.15
+10.17.65.15 trade.xueersi.com #目前代理到10.17.81.8, 需要等运维周一把解析改到10.17.81.15
+10.17.65.15 account.xueersi.com
+10.17.65.15 i.study.xueersi.com
+10.17.65.15 i.xueersi.com
+10.17.65.15 open.xueersi.com #目前代理到10.17.81.21, 需要等运维周一把解析改到10.17.81.15
+
+# 后台项目(代理机)
+10.17.65.15 admin.xesv5.com
+10.17.65.15 custom.xesv5.com
+10.17.65.15 teacher.xesv5.com
+10.17.65.15 accountmgr.xesv5.com
+10.17.65.15 express.xesv5.com
+10.17.65.15 static.xesv5.com
+10.17.65.15 appeal.xesv5.com
+10.17.65.15 appealadmin.xesv5.com
+
+# api(代理机)
+10.17.81.56 orderapi.xesv5.com
+10.17.81.56 userapi.xesv5.com
+10.17.81.56 adminapi.xesv5.com
+10.17.81.56 courseapi.xesv5.com
+10.17.81.56 stucouapi.xesv5.com
+10.17.81.56 promotionapi.xesv5.com
+10.17.81.56 teacherapi.xesv5.com
+10.17.81.56 cardcouponapi.xesv5.com
+10.17.81.56 goldapi.xesv5.com
+
+# 项目依赖
+10.17.65.15 login.xueersi.com
+10.17.65.15 reg.xueersi.com
+10.17.81.85 mq.xesv5.com #队列资源管理
+120.132.46.173 jenkins-jc-a.xesv5.com #集成环境jenknis
+10.17.65.35 job.xesv5.com #集成环境任务调度
+10.17.81.178 gwadmin.beta.xesv5.com #网关后台
+
+#测试环境
+10.99.1.74 bbrd-common-rabbit   #rabbitmq集群
+
+10.97.14.81 bbrd-es-store-d1    #柏霖es1
+10.97.14.82 bbrd-es-store-d2    #柏霖es2
+10.97.14.83 bbrd-es-store-d3    #柏霖es3
+10.97.14.84 bbrd-es-store-d4    #柏霖es4
+10.97.14.85 bbrd-es-store-d5    #柏霖es5
+
+10.97.1.45 bbrd-mysql     #mysql
+10.10.7.148 bbrd-mysql-2   #mysql
+
+10.99.1.45 bbrd-redis   #redis
+10.10.7.148 bbrd-redis-2   #redis
+10.10.7.148 codis-app  #codis
+
+10.10.7.148 bbrd-memcache-outside    #memcache对外
+10.99.1.79 bbrd-memcache-inside    #memcache对内
+
+192.168.34.16 bbrd-ldap     #ldap
+
+10.97.14.88 warnfilter.xesv5.com    #柏霖(获取课程余额不足预警是否发送)
