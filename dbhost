@@ -1,3 +1,25 @@
+10.99.1.74 bbrd-common-rabbit   #rabbitmq集群
+
+10.97.14.81 bbrd-es-store-d1    #柏霖es1
+10.97.14.82 bbrd-es-store-d2    #柏霖es2
+10.97.14.83 bbrd-es-store-d3    #柏霖es3
+10.97.14.84 bbrd-es-store-d4    #柏霖es4
+10.97.14.85 bbrd-es-store-d5    #柏霖es5
+
+10.97.1.45 bbrd-mysql     #mysql
+10.10.7.148 bbrd-mysql-2   #mysql
+
+10.99.1.45 bbrd-redis   #redis
+10.10.7.148 bbrd-redis-2   #redis
+10.10.7.148 codis-app  #codis
+
+10.10.7.148 bbrd-memcache-outside    #memcache对外
+10.99.1.79 bbrd-memcache-inside    #memcache对内
+
+192.168.34.16 bbrd-ldap     #ldap
+
+10.97.14.88 warnfilter.xesv5.com    #柏霖(获取课程余额不足预警是否发送)
+
 10.97.1.45    test-db-45
 
 10.10.7.148   wss-mdb1
